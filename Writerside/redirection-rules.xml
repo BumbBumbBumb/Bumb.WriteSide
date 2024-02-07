@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="745dde7c">
+        <description>Created after removal of "TestDiagram" from Help Instance</description>
+        <accepts>TestDiagram.html</accepts>
+    </rule>
+    <rule id="619bda76">
+        <description>Created after removal of "Empty MD Topic" from Help Instance</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
+    <rule id="418d91c1">
+        <description>Created after removal of "Requirement" from Help Instance</description>
+        <accepts>Requirement.html</accepts>
+    </rule>
+    <rule id="725b0c41">
+        <description>Created after removal of "Usecase Diagram" from Help Instance</description>
+        <accepts>UseCaseDiagram.html</accepts>
+    </rule>
+    <rule id="4071042e">
+        <description>Created after removal of "Class Diagram" from Help Instance</description>
+        <accepts>ClassDiagram.html</accepts>
+    </rule>
+</rules>
